@@ -7,6 +7,7 @@ export default defineAppConfig({
     'pages/news/news4',
     'pages/news/news5',
     'pages/news/news6',
+    'pages/news/news7',
   ],
   window: {
     backgroundTextStyle: 'light',
