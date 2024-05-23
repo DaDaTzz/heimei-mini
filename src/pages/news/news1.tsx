@@ -24,7 +24,8 @@ export default () => {
               <Image
                 className='at-article__img'
                 src={c4}
-                mode='widthFix' />
+                mode='widthFix'
+              />
               <View className='at-article__p'>
                 据称，草莓为了接近Doo，不惜在赛场上故意制造机会，甚至牺牲自己的竞技状态来迎合Doo的喜好。她的行为在职业圈引起了一些争议，有人认为她为了爱情放弃了自己的职业追求，也有人认为她的行为违反了公平竞争的原则。
                 Doo本人对于这段恋情的态度则相对低调。他表示，自己与草莓的恋情纯属私事，不希望过多地受到外界的关注和议论。他同时强调，自己与草莓的关系是建立在互相尊重和理解的基础上的，并不存在外界所猜测的金钱交易或利益交换。
@@ -34,7 +35,8 @@ export default () => {
               <Image
                 className='at-article__img'
                 src={c3}
-                mode='widthFix' />
+                mode='widthFix'
+              />
             </View>
           </View>
 

@@ -25,7 +25,8 @@ export default () => {
               <Image
                 className='at-article__img'
                 src={c2}
-                mode='widthFix' />
+                mode='widthFix'
+              />
               <View className='at-article__p'>
                 据调查，草莓经常出入各大酒吧，利用自己的美貌和电竞明星的身份，吸引那些渴望爱情和刺激的男性。在酒吧中，她以各种手段骗取男性的钱财和感情，让无数男性陷入她精心设计的陷阱。
                 据受害者透露，草莓会主动与男性搭讪，利用自己的甜美外貌和温柔话语，迅速与对方建立感情联系。一旦取得对方的信任，她便会以各种理由向对方借钱，如生活困难、急需资金等。这些男性在草莓的甜言蜜语下，往往毫不犹豫地借出钱财，但往往无法收回。
@@ -37,7 +38,8 @@ export default () => {
               <Image
                 className='at-article__img'
                 src={c1}
-                mode='widthFix' />
+                mode='widthFix'
+              />
             </View>
           </View>
         </View>
